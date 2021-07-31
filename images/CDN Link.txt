@@ -1,0 +1,8 @@
+banner.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/11012042070162773345005fc2369039890e2087a80f993bdd1e4.png
+dharma.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/110120420711627733450b63497c3465e1e1889905023d981ece1.png
+profile.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/1101204207216277334504ca2f9c7c2ca99c8ea4607969c7c6356.png
+profile-1.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/1101204207316277334502e3cf216e01fb5d830d7acb1abb52157.png
+profile-2.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/1101204207416277334506d5346e1394e1cdb0724c6ce28d63b64.png
+profile-3.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/110120420751627733450c7db7cffa934352250090948173fa2fa.png
+profile-4.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/1101204207616277334505a3f654c1ada705453af7b920be035b4.png
+profile-5.png >> https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/110120420771627733451ff52c23eafba0fac300b003c3ac3c7cc.png

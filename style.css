@@ -167,7 +167,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/11012042070162773345005fc2369039890e2087a80f993bdd1e4.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
